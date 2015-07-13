@@ -32,6 +32,16 @@ numbered list:
 
 paragraphs are separated with an empty line (just like in LaTeX)
 
+## Links
+
+between two square brackets: the lisk text, between parentheses, the link
+
+* [My homepage](http://harcsa.net)
+* [Download R](http://www.r-project.org/)
+* [Get Perl](https://www.perl.org/)
+* [RStudio](http://www.rstudio.com)
+* [Emacs](http://www.gnu.org/software/emacs/)
+
 ## Secondary heading
 
 Phasellus nec finibus neque. Vestibulum quis bibendum risus. Nunc maximus varius lectus, eu blandit sem efficitur non. Donec consequat velit sit amet urna auctor, vitae ornare lacus tristique. Aliquam eget malesuada est, quis blandit mi. Quisque sodales leo lectus, in fermentum odio dictum iaculis. Nullam at ex vestibulum, sagittis lectus varius, viverra turpis. Morbi justo nulla, semper eget dolor id, laoreet mattis augue. Integer sed ex ipsum.
