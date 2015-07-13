@@ -42,6 +42,10 @@ between two square brackets: the lisk text, between parentheses, the link
 * [RStudio](http://www.rstudio.com)
 * [Emacs](http://www.gnu.org/software/emacs/)
 
+another way: [1]: numbered list at the at the end of the doc and referring to them with square brackets in the text:
+
+you should spend a lot of time on [R Bloggers][1] and learn some tricks of the trade, and do not forget [Simply Statistics][2] either. Sometimes [Stackoverflow][3] can also help but nowadays they are very quick to close off topics you may want to read more about.
+
 ## Secondary heading
 
 Phasellus nec finibus neque. Vestibulum quis bibendum risus. Nunc maximus varius lectus, eu blandit sem efficitur non. Donec consequat velit sit amet urna auctor, vitae ornare lacus tristique. Aliquam eget malesuada est, quis blandit mi. Quisque sodales leo lectus, in fermentum odio dictum iaculis. Nullam at ex vestibulum, sagittis lectus varius, viverra turpis. Morbi justo nulla, semper eget dolor id, laoreet mattis augue. Integer sed ex ipsum.
@@ -55,3 +59,9 @@ Nam erat odio, consectetur blandit eros eu, pharetra elementum lacus. Curabitur 
 Donec eleifend sapien congue dapibus cursus. Donec tellus quam, consequat at finibus et, maximus eu tortor. Ut varius lacus eu nulla mollis elementum. Ut non nunc vitae orci porttitor ullamcorper. Nullam blandit luctus libero ac volutpat. Donec gravida auctor ligula, et consectetur ante viverra mollis. Quisque id vulputate nunc. Donec rutrum libero non tellus varius semper. Nam tempus leo justo, eget semper diam auctor et. Nam viverra nisl eu sem vulputate bibendum.
 
 Mauris in elementum risus. Mauris sit amet purus vitae massa ultricies tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce at est feugiat eros tempus scelerisque. Aliquam nunc sem, volutpat sed nisi in, mollis hendrerit est. Nulla metus mi, ullamcorper non velit sit amet, molestie viverra diam. Proin laoreet tempor erat, non facilisis odio rutrum in.
+
+## References
+
+[1]: http://www.r-bloggers.com/ "R Bloggers"
+[2]: http://simplystatistics.org/ "Simply Statistics"
+[3]: http://stackoverflow.com/ "Stackoverflow"
