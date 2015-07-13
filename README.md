@@ -2,7 +2,7 @@
 
 * *italics* is enclosed between stars
 * **bold** between double stars
-* _underline_ between two underscores
+* _italics again_ between two underscores
 
 another list type with _hyphens_
 
