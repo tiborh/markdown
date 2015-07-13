@@ -46,6 +46,10 @@ another way: [1]: numbered list at the at the end of the doc and referring to th
 
 you should spend a lot of time on [R Bloggers][1] and learn some tricks of the trade, and do not forget [Simply Statistics][2] either. Sometimes [Stackoverflow][3] can also help but nowadays they are very quick to close off topics you may want to read more about.
 
+## More about the Language
+
+You can have a simple introduction to the markdown language on [Markdown Basics][4] page. And you should visit [Github's Markdown Guide][5] for the special flavour it uses.
+
 ## Secondary heading
 
 Phasellus nec finibus neque. Vestibulum quis bibendum risus. Nunc maximus varius lectus, eu blandit sem efficitur non. Donec consequat velit sit amet urna auctor, vitae ornare lacus tristique. Aliquam eget malesuada est, quis blandit mi. Quisque sodales leo lectus, in fermentum odio dictum iaculis. Nullam at ex vestibulum, sagittis lectus varius, viverra turpis. Morbi justo nulla, semper eget dolor id, laoreet mattis augue. Integer sed ex ipsum.
@@ -67,3 +71,5 @@ this one is not really needed as the references list is invisible
 [1]: http://www.r-bloggers.com/ "R Bloggers"
 [2]: http://simplystatistics.org/ "Simply Statistics"
 [3]: http://stackoverflow.com/ "Stackoverflow"
+[4]: http://daringfireball.net/projects/markdown/basics "Markdown Basics"
+[5]: https://help.github.com/articles/github-flavored-markdown "Github's Markdown Guide"
