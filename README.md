@@ -1,6 +1,7 @@
 # Lorem Ipsum (header starts with hash mark)
 
-*italics* is enclosed between stars
+* *italics* is enclosed between stars
+* **bold** between double stars
 
 paragraphs are separated with an empty line (just like in LaTeX)
 
