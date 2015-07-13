@@ -5,7 +5,11 @@
 
 paragraphs are separated with an empty line (just like in LaTeX)
 
+## Secondary heading
+
 Phasellus nec finibus neque. Vestibulum quis bibendum risus. Nunc maximus varius lectus, eu blandit sem efficitur non. Donec consequat velit sit amet urna auctor, vitae ornare lacus tristique. Aliquam eget malesuada est, quis blandit mi. Quisque sodales leo lectus, in fermentum odio dictum iaculis. Nullam at ex vestibulum, sagittis lectus varius, viverra turpis. Morbi justo nulla, semper eget dolor id, laoreet mattis augue. Integer sed ex ipsum.
+
+### Tertiary heading
 
 Sed eu est vestibulum, sodales libero non, mollis velit. Vestibulum placerat tempus faucibus. Cras eu arcu id quam maximus molestie. Nunc eu pellentesque lorem, non gravida elit. Integer eget lectus tincidunt, interdum purus id, bibendum nisl. Quisque accumsan euismod quam, non porttitor turpis rutrum nec. Ut id ligula et nibh efficitur vulputate. Sed tincidunt maximus elit non aliquam. In urna lorem, maximus a cursus a, ornare at libero. Morbi id tortor consequat, elementum libero nec, suscipit erat. Donec a egestas mauris. Etiam tincidunt, dui vitae ornare porta, nisl metus gravida enim, quis porttitor eros sem sit amet turpis. Pellentesque non lectus sollicitudin sem dignissim pretium ac id magna.
 
