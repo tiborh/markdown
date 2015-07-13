@@ -20,6 +20,12 @@ or plus signs
 + item 2
 + item 3
 
+numbered list:
+
+1. first
+2. second
+3. third
+
 paragraphs are separated with an empty line (just like in LaTeX)
 
 ## Secondary heading
