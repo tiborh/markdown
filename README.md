@@ -62,6 +62,8 @@ Mauris in elementum risus. Mauris sit amet purus vitae massa ultricies tempor. C
 
 ## References
 
+this one is not really needed as the references list is invisible
+
 [1]: http://www.r-bloggers.com/ "R Bloggers"
 [2]: http://simplystatistics.org/ "Simply Statistics"
 [3]: http://stackoverflow.com/ "Stackoverflow"
