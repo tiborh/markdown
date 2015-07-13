@@ -1,14 +1,20 @@
 # Lorem Ipsum (header starts with hash mark)
 
+list with asterisk
+
 * *italics* is enclosed between stars
 * **bold** between double stars
 * _italics again_ between two underscores
 
-another list type with _hyphens_
+another list with _hyphens_
 
 - item 1
 - item 2
 - item 3
+
++ or plus signs
++ item 2
++ item 3
 
 paragraphs are separated with an empty line (just like in LaTeX)
 
