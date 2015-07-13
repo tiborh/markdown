@@ -12,7 +12,9 @@ another list with _hyphens_
 - item 2
 - item 3
 
-+ or plus signs
+or plus signs
+
++ item 1
 + item 2
 + item 3
 
