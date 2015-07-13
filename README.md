@@ -23,7 +23,11 @@ or plus signs
 numbered list:
 
 1. first
+ 2. sublist
+ 3. sublist item 2
 2. second
+ + ordered automatically when inserted later
+ + any number
 3. third
 
 paragraphs are separated with an empty line (just like in LaTeX)
