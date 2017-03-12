@@ -2,8 +2,8 @@
 
 ## Underscore inside
 
-_alpha_beta_
+words before _alpha_beta_ words after.
 
 # Testing embedded italics
 
-a_b_c_d_e
+Before a_b_c_d_e after.
